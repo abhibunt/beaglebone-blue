@@ -1,4 +1,4 @@
-# BeagleBoard.org BeagleBone Blue
+# BeagleBoard.org BeagleBone Blue.
 _BeagleBone optimized for robotics and machine control_
 
 [![Join the chat at https://gitter.im/beagleboard/beaglebone-blue](https://badges.gitter.im/beagleboard/beaglebone-blue.svg)](https://gitter.im/beagleboard/beaglebone-blue?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
