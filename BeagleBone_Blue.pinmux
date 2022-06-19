@@ -1,4 +1,5 @@
 {
+        "#:",
 	"boardId": "BeagleBone_Blue",
 	"deviceId": "AM335x",
 	"partId": "ID_500",
